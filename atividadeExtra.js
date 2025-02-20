@@ -56,6 +56,8 @@ console.log("Fatorial de 5! =", 5 * 4 * 3 * 2 * 1);
 // // Saída: Soma = 100
 // ------------------------------------------------------------------------
 let entrada = [10, 20, 30, 40];
+var soma = numeros[10] +  numeros[20] +  numeros[30] +  numeros[40];
+console.log(soma);
 
 // 5. Ordenação de Números
 // Peça ao usuário para inserir vários números separados por vírgula. Depois, exiba os números ordenados de forma crescente no console.
